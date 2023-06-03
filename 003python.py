@@ -17,3 +17,8 @@ print(operate('subtract',5,2))
 
 print("==== Multiply ====")
 print(operate('multiply',2,3))
+
+def my_function(x):
+    return x * 2
+
+print(my_function(265))
