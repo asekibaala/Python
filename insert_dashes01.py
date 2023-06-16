@@ -1,7 +1,7 @@
 def insert_dashes(a_string):
     counter = 1
     res = ""
-    for cha in a_string:
+    for char in a_string:
         res += char
         if counter == 3:
             res += '-'
