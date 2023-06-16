@@ -13,3 +13,6 @@ today = "Today is {}, {}, {}"
 msg = today.format("Sunday", "June", 4)
 
 print(msg)
+
+my_var = True
+print(type(my_var))
